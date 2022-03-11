@@ -1,0 +1,42 @@
+body{
+    background-image: url('images/juan-encalada-6mcVaoGNz1w-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container{
+    width: 50%;
+    margin: 5.5em auto;
+    
+    
+}
+.card-header{
+    background-color:rgba(45, 82, 184, 0.856);
+    color: rgb(228, 225, 225);
+   
+}
+.card-title{
+    font-size: 32px;
+    font-style: italic;
+}
+label{
+    font-weight: bold; 
+    font-size: 16px;
+}
+.btn{
+    width: 95%;
+    margin-left: 1em;
+ }
+.footer h1{
+    font-size: 18px;
+    padding: 1em;
+}
+.footer a {
+    text-decoration: none;
+    
+}
+.btn{
+    background-color:rgb(52, 89, 190);  
+    
+    color:white;
+}
